@@ -3,7 +3,18 @@
 ###
 
 <h4 align="left">I’m a full-stack engineer with a passion for building websites that serve meaningful ideas.<br>I have a strong background in developing web applications using .NET and Blazor, focusing on creating impactful and reliable products. With a deep interest in both backend and frontend development, I enjoy solving complex problems and continuously learning new concepts.</h4>
+###
 
+<h2 align="left">Connect with me:</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
 ###
 
 <h2 align="left">Languages and Tools:</h2>
