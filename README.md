@@ -3,7 +3,6 @@
 ###
 
 <h4 align="left">I’m a full-stack engineer with a passion for building websites that serve meaningful ideas.<br>I have a strong background in developing web applications using .NET and Blazor, focusing on creating impactful and reliable products. With a deep interest in both backend and frontend development, I enjoy solving complex problems and continuously learning new concepts.</h4>
-###
 
 <h2 align="left">Connect with me:</h2>
 
